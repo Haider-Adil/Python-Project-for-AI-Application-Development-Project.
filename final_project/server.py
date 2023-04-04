@@ -24,3 +24,4 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
 git config --global user.email "m17201256@s.uokerbala.edu.iq"
 git config --global user.name "Haider-Adil"
+git add .
